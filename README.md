@@ -10,7 +10,7 @@ The client and server are communicating over 0mq protocol using tcp.
 ## Usage
 Create a new instance of the client:
 ```
-> client = ZZMQPirateClient::Client.new(port:5566, retries: 3, timeout: 100)
+> client = ZMQPirateClient::Client.new(port:5566, retries: 3, timeout: 100)
 ```
 
 All parameters are optional.
