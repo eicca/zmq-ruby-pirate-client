@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/eicca/zmq-ruby-pirate-client.png)](https://codeclimate.com/github/eicca/zmq-ruby-pirate-client)
+
 # ZeroMQ ruby pirate client
 
 ## Description
