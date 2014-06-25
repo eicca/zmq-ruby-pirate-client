@@ -5,7 +5,7 @@
 ## Description
 This is the ruby zmq client for the various pirate patterns described in [zmq documentation](http://zguide.zeromq.org/page:all#Client-Side-Reliability-Lazy-Pirate-Pattern).
 
-You can find example server for ruby in spec folder (using celluloid) or for nodejs in other repo: [TODO](http://todo.example)
+You can find example server for ruby in spec folder (using celluloid) or for nodejs in other repo: https://github.com/eicca/zmq-nodejs-example-server
 
 The client and server are communicating over 0mq protocol using tcp.
 
